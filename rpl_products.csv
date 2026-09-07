@@ -1,0 +1,35 @@
+product_id,product_name,category,sub_category,cost_price,selling_price,supplier
+1,Headphones,Electronics,Headphones,341.45,457.62,Supplier A
+2,Smartwatch,Electronics,Smartwatch,214.37,344.87,Supplier A
+3,Bluetooth Speaker,Electronics,Bluetooth Speaker,2079.85,3011.45,Supplier B
+4,Power Bank,Electronics,Power Bank,1620.58,2911.73,Supplier C
+5,Webcam,Electronics,Webcam,1745.57,3775.0,Supplier B
+6,T-Shirt,Apparel,T-Shirt,2423.6,4524.34,Supplier B
+7,Jeans,Apparel,Jeans,1975.36,3336.23,Supplier A
+8,Jacket,Apparel,Jacket,2251.56,4716.54,Supplier D
+9,Sneakers,Apparel,Sneakers,1837.78,3032.25,Supplier B
+10,Cap,Apparel,Cap,736.49,1456.11,Supplier A
+11,Mixer Grinder,Home & Kitchen,Mixer Grinder,1795.44,3625.98,Supplier E
+12,Non-stick Pan,Home & Kitchen,Non-stick Pan,682.84,1088.03,Supplier D
+13,LED Lamp,Home & Kitchen,LED Lamp,474.77,903.79,Supplier D
+14,Water Bottle,Home & Kitchen,Water Bottle,1653.99,3101.56,Supplier E
+15,Storage Box,Home & Kitchen,Storage Box,1257.62,2079.21,Supplier A
+16,Face Wash,Beauty,Face Wash,1141.59,2352.78,Supplier E
+17,Shampoo,Beauty,Shampoo,641.7,1223.23,Supplier C
+18,Perfume,Beauty,Perfume,2768.25,5069.09,Supplier B
+19,Moisturizer,Beauty,Moisturizer,1042.58,1579.21,Supplier A
+20,Lipstick,Beauty,Lipstick,671.68,1292.37,Supplier E
+21,Yoga Mat,Sports,Yoga Mat,1257.12,2309.06,Supplier E
+22,Dumbbell Set,Sports,Dumbbell Set,1243.57,1824.54,Supplier E
+23,Cricket Bat,Sports,Cricket Bat,2126.28,3998.97,Supplier B
+24,Football,Sports,Football,1731.5,3013.98,Supplier B
+25,Cycling Helmet,Sports,Cycling Helmet,683.23,1405.94,Supplier E
+26,Notebook Pack,Stationery,Notebook Pack,302.79,491.47,Supplier A
+27,Pen Set,Stationery,Pen Set,1531.14,2259.37,Supplier D
+28,Backpack,Stationery,Backpack,2896.91,5083.77,Supplier D
+29,Desk Organizer,Stationery,Desk Organizer,1316.03,2293.25,Supplier D
+30,Sketch Kit,Stationery,Sketch Kit,1542.79,2120.42,Supplier A
+31,Bluetooth Speaker Pro (Value Edition),Electronics,Bluetooth Speaker,2500.0,2700.0,Supplier A
+32,Retro Film Camera,Home & Kitchen,Retro Film Camera,2153.0,3444.8,Supplier D
+33,Fondue Set,Home & Kitchen,Fondue Set,1174.9,1879.84,Supplier D
+34,Fax Machine Adapter,Home & Kitchen,Fax Machine Adapter,855.58,1368.93,Supplier D

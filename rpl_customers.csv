@@ -1,0 +1,401 @@
+customer_id,customer_name,email,city,state,signup_date,customer_segment
+1,Karthik Nair,karthik.nair1@example.com,Mumbai,Maharashtra,2025-03-18,Regular
+2,Suresh Iyer,,Lucknow,Uttar Pradesh,2026-01-13,Regular
+3,Riya Sharma,riya.sharma3@example.com,Jaipur,Rajasthan,2024-10-13,Premium
+4,Krishna Pillai,krishna.pillai4@example.com,,Uttar Pradesh,2025-03-24,Regular
+5,Anjali Chatterjee,anjali.chatterjee5@example.com,Pune,Maharashtra,2025-03-24,Regular
+6,Vihaan Iyer,vihaan.iyer6@example.com,Kolkata,West Bengal,2024-03-18,Regular
+7,Amit Verma,amit.verma7@example.com,Madurai,Tamil Nadu,2026-03-30,Premium
+8,Aditya Singh,aditya.singh8@example.com,Coimbatore,Tamil Nadu,2025-09-11,Regular
+9,Suresh Rao,suresh.rao9@example.com,Hyderabad,Telangana,2024-02-12,Premium
+10,Ishaan Pillai,ishaan.pillai10@example.com,Coimbatore,Tamil Nadu,2025-09-18,Budget
+11,Ishaan Iyer,ishaan.iyer11@example.com,Lucknow,Uttar Pradesh,2024-08-17,Premium
+12,Isha Kumar,isha.kumar12@example.com,Coimbatore,Tamil Nadu,2024-11-24,Regular
+13,Krishna Verma,krishna.verma13@example.com,Pune,Maharashtra,2025-12-01,Premium
+14,Vikram Patel,vikram.patel14@example.com,Chennai,Tamil Nadu,2026-06-20,Premium
+15,Arjun Kumar,arjun.kumar15@example.com,Bengaluru,Karnataka,2025-01-19,Budget
+16,Tara Chatterjee,tara.chatterjee16@example.com,Lucknow,Uttar Pradesh,2025-11-27,Regular
+17,Riya Joshi,riya.joshi17@example.com,Delhi,Delhi,2023-12-07,Regular
+18,Amit Chatterjee,amit.chatterjee18@example.com,Lucknow,Uttar Pradesh,2024-01-10,Premium
+19,Riya Kumar,riya.kumar19@example.com,Jaipur,Rajasthan,2023-09-25,Premium
+20,Rahul Kumar,rahul.kumar20@example.com,Coimbatore,Tamil Nadu,2025-07-29,Premium
+21,Aarav Kumar,aarav.kumar21@example.com,Jaipur,Rajasthan,2024-09-01,Budget
+22,Rohan Menon,rohan.menon22@example.com,Bengaluru,Karnataka,2025-10-06,Premium
+23,Deepak Sharma,deepak.sharma23@example.com,Lucknow,Uttar Pradesh,2025-06-26,Regular
+24,Vikram Singh,vikram.singh24@example.com,Chennai,Tamil Nadu,2023-12-29,Regular
+25,Aditya Joshi,aditya.joshi25@example.com,Delhi,Delhi,2024-05-16,Premium
+26,Sai Kumar,sai.kumar26@example.com,Jaipur,Rajasthan,2026-01-15,Budget
+27,Anjali Menon,anjali.menon27@example.com,Madurai,Tamil Nadu,2025-06-01,Regular
+28,Meera Pillai,meera.pillai28@example.com,Delhi,Delhi,2025-01-21,Premium
+29,Saanvi Rao,,Lucknow,Uttar Pradesh,2024-11-26,Regular
+30,Krishna Iyer,krishna.iyer30@example.com,Mumbai,Maharashtra,2025-07-09,Budget
+31,Priya Menon,priya.menon31@example.com,Jaipur,Rajasthan,2024-05-29,Premium
+32,Priya Rao,priya.rao32@example.com,Ahmedabad,Gujarat,2025-12-13,Premium
+33,Diya Chatterjee,diya.chatterjee33@example.com,Kolkata,West Bengal,2026-04-15,Budget
+34,Karthik Nair,karthik.nair34@example.com,Mumbai,Maharashtra,2025-12-04,Regular
+35,Krishna Menon,krishna.menon35@example.com,Chennai,Tamil Nadu,2026-03-08,Premium
+36,Krishna Iyer,krishna.iyer36@example.com,Ahmedabad,Gujarat,2024-03-20,Regular
+37,Aditya Rao,aditya.rao37@example.com,Bengaluru,Karnataka,2025-12-12,Premium
+38,Vikram Verma,,Bengaluru,Karnataka,2025-10-17,Premium
+39,Rohan Chatterjee,rohan.chatterjee39@example.com,Madurai,Tamil Nadu,2026-05-25,Regular
+40,Tara Verma,tara.verma40@example.com,Madurai,Tamil Nadu,2025-06-05,Premium
+41,Deepak Gupta,deepak.gupta41@example.com,Mumbai,Maharashtra,2026-07-08,Premium
+42,Aditya Rao,aditya.rao42@example.com,Kolkata,West Bengal,2024-05-04,Premium
+43,Zara Verma,zara.verma43@example.com,Lucknow,Uttar Pradesh,2024-02-16,Premium
+44,Ananya Kumar,ananya.kumar44@example.com,Chennai,Tamil Nadu,2025-06-06,Budget
+45,Karthik Singh,karthik.singh45@example.com,Ahmedabad,Gujarat,2025-06-10,Regular
+46,Meera Nair,meera.nair46@example.com,Delhi,Delhi,2024-11-11,Regular
+47,Vikram Iyer,vikram.iyer47@example.com,Chennai,Tamil Nadu,2025-09-27,Premium
+48,Anjali Singh,anjali.singh48@example.com,Lucknow,Uttar Pradesh,2023-09-18,Budget
+49,Vihaan Reddy,vihaan.reddy49@example.com,Hyderabad,Telangana,2024-04-25,Regular
+50,Ishaan Singh,ishaan.singh50@example.com,Lucknow,Uttar Pradesh,2024-11-06,Budget
+51,Sneha Kumar,sneha.kumar51@example.com,Jaipur,Rajasthan,2026-05-29,Regular
+52,Aditya Chatterjee,,Hyderabad,Telangana,2023-12-01,Budget
+53,Ishaan Gupta,ishaan.gupta53@example.com,Madurai,Tamil Nadu,2026-02-22,Regular
+54,Vihaan Iyer,vihaan.iyer54@example.com,Madurai,Tamil Nadu,2024-07-03,Premium
+55,Saanvi Reddy,,Kolkata,West Bengal,2024-05-20,Regular
+56,Vikram Das,vikram.das56@example.com,Chennai,Tamil Nadu,2025-01-25,Premium
+57,Vikram Chatterjee,vikram.chatterjee57@example.com,Lucknow,Uttar Pradesh,2024-07-14,Regular
+58,Amit Gupta,amit.gupta58@example.com,Kolkata,West Bengal,2023-10-22,Premium
+59,Amit Rao,amit.rao59@example.com,Hyderabad,Telangana,2024-07-24,Regular
+60,Sneha Joshi,sneha.joshi60@example.com,Chennai,Tamil Nadu,2024-10-14,Regular
+61,Pooja Rao,pooja.rao61@example.com,Chennai,Tamil Nadu,2023-10-20,Regular
+62,Sneha Iyer,sneha.iyer62@example.com,Hyderabad,Telangana,2025-08-21,Premium
+63,Ananya Sharma,ananya.sharma63@example.com,Delhi,Delhi,2025-02-17,Regular
+64,Vivaan Nair,vivaan.nair64@example.com,Lucknow,Uttar Pradesh,2026-02-07,Premium
+65,Zara Nair,zara.nair65@example.com,Kolkata,West Bengal,2024-09-25,Regular
+66,Riya Menon,riya.menon66@example.com,Pune,Maharashtra,2026-02-01,Regular
+67,Zara Patel,zara.patel67@example.com,Coimbatore,Tamil Nadu,2024-05-14,Regular
+68,Suresh Chatterjee,suresh.chatterjee68@example.com,Pune,Maharashtra,2025-12-04,Regular
+69,Kavya Bose,kavya.bose69@example.com,Coimbatore,Tamil Nadu,2024-08-23,Premium
+70,Pooja Sharma,pooja.sharma70@example.com,Hyderabad,Telangana,2025-04-11,Premium
+71,Karthik Patel,karthik.patel71@example.com,Ahmedabad,Gujarat,2026-02-22,Premium
+72,Amit Gupta,amit.gupta72@example.com,Coimbatore,Tamil Nadu,2024-02-22,Premium
+73,Ananya Iyer,ananya.iyer73@example.com,Chennai,Tamil Nadu,2025-05-29,Regular
+74,Vivaan Rao,vivaan.rao74@example.com,Ahmedabad,Gujarat,2024-01-29,Premium
+75,Reyansh Bose,reyansh.bose75@example.com,Ahmedabad,Gujarat,2025-11-28,Regular
+76,Vikram Nair,vikram.nair76@example.com,Kolkata,West Bengal,2024-11-23,Premium
+77,Meera Verma,meera.verma77@example.com,Jaipur,Rajasthan,2025-01-24,Regular
+78,Amit Pillai,amit.pillai78@example.com,Coimbatore,Tamil Nadu,2025-06-12,Premium
+79,Pooja Chatterjee,pooja.chatterjee79@example.com,Jaipur,Rajasthan,2026-03-03,Premium
+80,Meera Kumar,meera.kumar80@example.com,Chennai,Tamil Nadu,2025-03-22,Budget
+81,Krishna Kumar,krishna.kumar81@example.com,Ahmedabad,Gujarat,2024-02-07,Regular
+82,Ananya Iyer,ananya.iyer82@example.com,Bengaluru,Karnataka,2024-07-06,Budget
+83,Reyansh Iyer,reyansh.iyer83@example.com,Kolkata,West Bengal,2025-12-14,Regular
+84,Reyansh Chatterjee,reyansh.chatterjee84@example.com,Kolkata,West Bengal,2023-10-12,Premium
+85,Priya Sharma,priya.sharma85@example.com,Pune,Maharashtra,2025-05-05,Premium
+86,Saanvi Rao,saanvi.rao86@example.com,Ahmedabad,Gujarat,2024-11-24,Premium
+87,Ananya Bose,ananya.bose87@example.com,Madurai,Tamil Nadu,2024-08-05,Premium
+88,Saanvi Sharma,saanvi.sharma88@example.com,Kolkata,West Bengal,2023-10-27,Premium
+89,Sai Verma,sai.verma89@example.com,Hyderabad,Telangana,2025-10-17,Regular
+90,Rahul Bose,rahul.bose90@example.com,Hyderabad,Telangana,2026-01-12,Regular
+91,Neha Verma,neha.verma91@example.com,Pune,Maharashtra,2024-12-04,Budget
+92,Vivaan Sharma,vivaan.sharma92@example.com,Chennai,Tamil Nadu,2024-10-14,Regular
+93,Arjun Joshi,arjun.joshi93@example.com,Coimbatore,Tamil Nadu,2024-04-23,Budget
+94,Ishaan Das,ishaan.das94@example.com,Bengaluru,Karnataka,2024-04-23,Regular
+95,Vihaan Sharma,vihaan.sharma95@example.com,Hyderabad,Telangana,2025-10-09,Regular
+96,Tara Rao,tara.rao96@example.com,Delhi,Delhi,2025-05-11,Regular
+97,Amit Verma,amit.verma97@example.com,Pune,Maharashtra,2026-01-26,Budget
+98,Ananya Sharma,ananya.sharma98@example.com,Kolkata,West Bengal,2026-06-01,Budget
+99,Vikram Pillai,vikram.pillai99@example.com,Madurai,Tamil Nadu,2024-07-11,Budget
+100,Ishaan Joshi,ishaan.joshi100@example.com,Ahmedabad,Gujarat,2026-02-10,Regular
+101,Sneha Rao,sneha.rao101@example.com,Delhi,Delhi,2025-03-26,Premium
+102,Tara Bose,tara.bose102@example.com,Pune,Maharashtra,2023-10-30,Premium
+103,Reyansh Das,reyansh.das103@example.com,Hyderabad,Telangana,2025-07-30,Regular
+104,Saanvi Sharma,saanvi.sharma104@example.com,Jaipur,Rajasthan,2024-09-27,Premium
+105,Saanvi Rao,saanvi.rao105@example.com,Madurai,Tamil Nadu,2026-05-04,Regular
+106,Aditya Singh,aditya.singh106@example.com,Chennai,Tamil Nadu,2025-12-08,Premium
+107,Diya Joshi,diya.joshi107@example.com,Jaipur,Rajasthan,2025-08-06,Regular
+108,Diya Pillai,diya.pillai108@example.com,Hyderabad,Telangana,2025-05-21,Regular
+109,Ananya Nair,ananya.nair109@example.com,Madurai,Tamil Nadu,2024-09-15,Regular
+110,Neha Singh,neha.singh110@example.com,Delhi,Delhi,2024-10-03,Regular
+111,Aarav Reddy,aarav.reddy111@example.com,Hyderabad,Telangana,2023-12-04,Budget
+112,Arjun Joshi,arjun.joshi112@example.com,Delhi,Delhi,2023-09-27,Premium
+113,Ananya Gupta,ananya.gupta113@example.com,Mumbai,Maharashtra,2025-01-31,Regular
+114,Isha Joshi,isha.joshi114@example.com,Delhi,Delhi,2023-12-20,Regular
+115,Aditya Rao,aditya.rao115@example.com,Delhi,Delhi,2026-01-01,Regular
+116,Rahul Bose,rahul.bose116@example.com,Ahmedabad,Gujarat,2026-02-24,Premium
+117,Rohan Verma,rohan.verma117@example.com,Lucknow,Uttar Pradesh,2024-03-23,Regular
+118,Ishaan Iyer,ishaan.iyer118@example.com,Bengaluru,Karnataka,2025-01-05,Regular
+119,Kavya Pillai,kavya.pillai119@example.com,Madurai,Tamil Nadu,2026-04-21,Budget
+120,Rohan Pillai,rohan.pillai120@example.com,Delhi,Delhi,2024-12-23,Budget
+121,Tara Menon,tara.menon121@example.com,Kolkata,West Bengal,2024-04-24,Regular
+122,Pooja Reddy,pooja.reddy122@example.com,Delhi,Delhi,2024-01-02,Budget
+123,Pooja Singh,pooja.singh123@example.com,Ahmedabad,Gujarat,2024-05-13,Premium
+124,Ishaan Joshi,ishaan.joshi124@example.com,Ahmedabad,Gujarat,2024-02-13,Budget
+125,Ananya Kumar,ananya.kumar125@example.com,Mumbai,Maharashtra,2024-03-07,Premium
+126,Tara Sharma,tara.sharma126@example.com,Coimbatore,Tamil Nadu,2025-03-06,Regular
+127,Priya Pillai,priya.pillai127@example.com,Hyderabad,Telangana,2024-09-07,Premium
+128,Aditya Joshi,aditya.joshi128@example.com,Pune,Maharashtra,2025-12-16,Regular
+129,Ananya Chatterjee,ananya.chatterjee129@example.com,Madurai,Tamil Nadu,2026-06-12,Premium
+130,Vivaan Pillai,vivaan.pillai130@example.com,Delhi,Delhi,2025-06-07,Premium
+131,Sneha Sharma,sneha.sharma131@example.com,Coimbatore,Tamil Nadu,2026-04-05,Regular
+132,Zara Joshi,zara.joshi132@example.com,Coimbatore,Tamil Nadu,2026-02-23,Premium
+133,Arjun Singh,arjun.singh133@example.com,Ahmedabad,Gujarat,2026-05-21,Premium
+134,Amit Rao,amit.rao134@example.com,,Tamil Nadu,2024-07-22,Premium
+135,Aditya Rao,aditya.rao135@example.com,Delhi,Delhi,2026-04-04,Regular
+136,Priya Singh,priya.singh136@example.com,Jaipur,Rajasthan,2025-03-14,Premium
+137,Krishna Pillai,krishna.pillai137@example.com,Jaipur,Rajasthan,2024-06-24,Premium
+138,Neha Reddy,neha.reddy138@example.com,Delhi,Delhi,2025-03-20,Regular
+139,Deepak Kumar,deepak.kumar139@example.com,Mumbai,Maharashtra,2025-04-03,Premium
+140,Suresh Joshi,suresh.joshi140@example.com,Bengaluru,Karnataka,2026-03-04,Premium
+141,Rahul Bose,rahul.bose141@example.com,Ahmedabad,Gujarat,2025-06-22,Regular
+142,Tara Bose,,Chennai,Tamil Nadu,2025-12-21,Budget
+143,Deepak Bose,deepak.bose143@example.com,Kolkata,West Bengal,2024-07-09,Premium
+144,Tara Patel,tara.patel144@example.com,Delhi,Delhi,2026-02-19,Regular
+145,Neha Reddy,neha.reddy145@example.com,Kolkata,West Bengal,2024-07-14,Regular
+146,Ananya Bose,ananya.bose146@example.com,Coimbatore,Tamil Nadu,2024-02-13,Premium
+147,Isha Patel,isha.patel147@example.com,Coimbatore,Tamil Nadu,2026-05-28,Regular
+148,Krishna Singh,krishna.singh148@example.com,Chennai,Tamil Nadu,2024-03-05,Budget
+149,Anjali Nair,anjali.nair149@example.com,Ahmedabad,Gujarat,2024-08-07,Regular
+150,Ananya Verma,ananya.verma150@example.com,Hyderabad,Telangana,2025-09-05,Premium
+151,Kavya Gupta,kavya.gupta151@example.com,Bengaluru,Karnataka,2024-08-25,Premium
+152,Suresh Rao,suresh.rao152@example.com,Ahmedabad,Gujarat,2024-06-21,Premium
+153,Ishaan Sharma,ishaan.sharma153@example.com,Ahmedabad,Gujarat,2025-04-13,Premium
+154,Diya Singh,diya.singh154@example.com,Coimbatore,Tamil Nadu,2026-01-17,Regular
+155,Reyansh Bose,reyansh.bose155@example.com,Ahmedabad,Gujarat,2024-04-07,Premium
+156,Rohan Singh,rohan.singh156@example.com,Mumbai,Maharashtra,2025-11-20,Budget
+157,Rahul Verma,rahul.verma157@example.com,Lucknow,Uttar Pradesh,2026-06-15,Regular
+158,Zara Das,zara.das158@example.com,Chennai,Tamil Nadu,2024-09-25,Budget
+159,Rahul Reddy,rahul.reddy159@example.com,Coimbatore,Tamil Nadu,2024-03-18,Regular
+160,Amit Pillai,amit.pillai160@example.com,Mumbai,Maharashtra,2025-09-18,Regular
+161,Ananya Chatterjee,ananya.chatterjee161@example.com,Bengaluru,Karnataka,2024-10-17,Regular
+162,Riya Kumar,riya.kumar162@example.com,Bengaluru,Karnataka,2025-02-09,Regular
+163,Neha Patel,neha.patel163@example.com,Delhi,Delhi,2026-04-18,Regular
+164,Sneha Bose,sneha.bose164@example.com,Jaipur,Rajasthan,2025-09-20,Regular
+165,Saanvi Nair,saanvi.nair165@example.com,Ahmedabad,Gujarat,2025-09-25,Premium
+166,Isha Das,isha.das166@example.com,Delhi,Delhi,2024-12-23,Premium
+167,Ananya Rao,ananya.rao167@example.com,Coimbatore,Tamil Nadu,2024-01-09,Budget
+168,Rohan Chatterjee,,Delhi,Delhi,2024-06-14,Premium
+169,Vihaan Nair,vihaan.nair169@example.com,Chennai,Tamil Nadu,2024-06-05,Budget
+170,Anjali Chatterjee,anjali.chatterjee170@example.com,Lucknow,Uttar Pradesh,2024-07-14,Premium
+171,Zara Chatterjee,zara.chatterjee171@example.com,Hyderabad,Telangana,2023-11-08,Premium
+172,Krishna Das,krishna.das172@example.com,Delhi,Delhi,2025-09-23,Regular
+173,Vivaan Bose,vivaan.bose173@example.com,Hyderabad,Telangana,2024-09-24,Premium
+174,Aditya Menon,aditya.menon174@example.com,Coimbatore,Tamil Nadu,2023-10-15,Regular
+175,Amit Menon,amit.menon175@example.com,Delhi,Delhi,2024-10-30,Regular
+176,Ananya Reddy,ananya.reddy176@example.com,Lucknow,Uttar Pradesh,2023-09-07,Regular
+177,Saanvi Kumar,saanvi.kumar177@example.com,,Karnataka,2024-04-14,Regular
+178,Diya Rao,,Lucknow,Uttar Pradesh,2025-06-26,Regular
+179,Neha Chatterjee,neha.chatterjee179@example.com,Jaipur,Rajasthan,2024-04-21,Regular
+180,Riya Nair,riya.nair180@example.com,Ahmedabad,Gujarat,2026-06-29,Budget
+181,Amit Singh,amit.singh181@example.com,Ahmedabad,Gujarat,2023-11-04,Premium
+182,Kavya Nair,kavya.nair182@example.com,Ahmedabad,Gujarat,2026-02-26,Premium
+183,Arjun Iyer,arjun.iyer183@example.com,Bengaluru,Karnataka,2025-03-18,Budget
+184,Ananya Bose,ananya.bose184@example.com,Lucknow,Uttar Pradesh,2025-04-27,Regular
+185,Amit Nair,amit.nair185@example.com,Coimbatore,Tamil Nadu,2024-11-15,Premium
+186,Ananya Pillai,ananya.pillai186@example.com,Kolkata,West Bengal,2025-12-31,Regular
+187,Suresh Kumar,suresh.kumar187@example.com,Pune,Maharashtra,2024-07-10,Regular
+188,Pooja Iyer,pooja.iyer188@example.com,Delhi,Delhi,2026-02-02,Regular
+189,Saanvi Verma,saanvi.verma189@example.com,Lucknow,Uttar Pradesh,2025-07-08,Budget
+190,Rahul Chatterjee,rahul.chatterjee190@example.com,Madurai,Tamil Nadu,2023-12-16,Regular
+191,Vihaan Menon,vihaan.menon191@example.com,Bengaluru,Karnataka,2026-05-16,Premium
+192,Diya Nair,diya.nair192@example.com,Hyderabad,Telangana,2024-12-08,Premium
+193,Zara Sharma,,Lucknow,Uttar Pradesh,2025-03-02,Regular
+194,Deepak Patel,deepak.patel194@example.com,Pune,Maharashtra,2023-09-14,Budget
+195,Isha Iyer,isha.iyer195@example.com,Bengaluru,Karnataka,2023-11-03,Premium
+196,Kavya Pillai,kavya.pillai196@example.com,Pune,Maharashtra,2024-07-20,Premium
+197,Zara Iyer,zara.iyer197@example.com,Mumbai,Maharashtra,2024-07-16,Budget
+198,Aditya Kumar,aditya.kumar198@example.com,Ahmedabad,Gujarat,2026-01-17,Regular
+199,Reyansh Nair,reyansh.nair199@example.com,Pune,Maharashtra,2026-01-29,Premium
+200,Priya Singh,priya.singh200@example.com,Mumbai,Maharashtra,2024-11-26,Regular
+201,Reyansh Singh,reyansh.singh201@example.com,Chennai,Tamil Nadu,2024-06-09,Regular
+202,Aarav Joshi,aarav.joshi202@example.com,Madurai,Tamil Nadu,2026-01-30,Budget
+203,Krishna Das,krishna.das203@example.com,Delhi,Delhi,2025-11-23,Regular
+204,Meera Iyer,meera.iyer204@example.com,Pune,Maharashtra,2026-01-28,Premium
+205,Rohan Nair,rohan.nair205@example.com,Kolkata,West Bengal,2023-10-14,Premium
+206,Meera Das,meera.das206@example.com,Delhi,Delhi,2026-02-12,Premium
+207,Isha Iyer,isha.iyer207@example.com,Kolkata,West Bengal,2025-05-29,Regular
+208,Aditya Nair,aditya.nair208@example.com,Jaipur,Rajasthan,2026-07-12,Regular
+209,Neha Reddy,neha.reddy209@example.com,Chennai,Tamil Nadu,2024-03-30,Premium
+210,Arjun Iyer,arjun.iyer210@example.com,Bengaluru,Karnataka,2026-06-09,Premium
+211,Meera Patel,meera.patel211@example.com,Coimbatore,Tamil Nadu,2025-06-10,Premium
+212,Karthik Singh,karthik.singh212@example.com,Hyderabad,Telangana,2023-12-26,Premium
+213,Meera Verma,meera.verma213@example.com,Mumbai,Maharashtra,2025-09-26,Regular
+214,Zara Bose,zara.bose214@example.com,Ahmedabad,Gujarat,2023-11-25,Budget
+215,Reyansh Patel,reyansh.patel215@example.com,Lucknow,Uttar Pradesh,2026-05-03,Premium
+216,Vihaan Patel,vihaan.patel216@example.com,Madurai,Tamil Nadu,2024-02-21,Regular
+217,Anjali Pillai,anjali.pillai217@example.com,Ahmedabad,Gujarat,2024-07-23,Premium
+218,Kavya Patel,kavya.patel218@example.com,Coimbatore,Tamil Nadu,2023-12-18,Regular
+219,Ananya Nair,ananya.nair219@example.com,Jaipur,Rajasthan,2025-11-01,Budget
+220,Deepak Reddy,deepak.reddy220@example.com,Pune,Maharashtra,2024-02-15,Regular
+221,Rohan Bose,rohan.bose221@example.com,Bengaluru,Karnataka,2024-02-22,Regular
+222,Pooja Reddy,pooja.reddy222@example.com,Coimbatore,Tamil Nadu,2024-03-11,Regular
+223,Aarav Das,aarav.das223@example.com,Hyderabad,Telangana,2024-09-05,Premium
+224,Reyansh Rao,reyansh.rao224@example.com,Bengaluru,Karnataka,2024-07-15,Regular
+225,Riya Verma,riya.verma225@example.com,Coimbatore,Tamil Nadu,2025-07-22,Premium
+226,Isha Reddy,isha.reddy226@example.com,Bengaluru,Karnataka,2024-09-06,Regular
+227,Neha Pillai,neha.pillai227@example.com,Mumbai,Maharashtra,2025-12-21,Premium
+228,Zara Singh,zara.singh228@example.com,Madurai,Tamil Nadu,2026-03-09,Premium
+229,Vikram Menon,vikram.menon229@example.com,Pune,Maharashtra,2026-02-20,Premium
+230,Riya Chatterjee,riya.chatterjee230@example.com,Bengaluru,Karnataka,2024-10-14,Regular
+231,Vivaan Joshi,vivaan.joshi231@example.com,Pune,Maharashtra,2024-03-30,Regular
+232,Rohan Iyer,rohan.iyer232@example.com,Bengaluru,Karnataka,2025-03-13,Premium
+233,Aditya Rao,aditya.rao233@example.com,Ahmedabad,Gujarat,2025-08-17,Premium
+234,Riya Das,riya.das234@example.com,Chennai,Tamil Nadu,2025-10-31,Regular
+235,Ananya Nair,ananya.nair235@example.com,Madurai,Tamil Nadu,2025-07-19,Regular
+236,Deepak Joshi,deepak.joshi236@example.com,Madurai,Tamil Nadu,2024-06-12,Premium
+237,Aarav Iyer,aarav.iyer237@example.com,Mumbai,Maharashtra,2025-02-07,Budget
+238,Zara Chatterjee,zara.chatterjee238@example.com,Delhi,Delhi,2025-04-14,Regular
+239,Kavya Pillai,kavya.pillai239@example.com,Delhi,Delhi,2024-04-16,Premium
+240,Aarav Rao,aarav.rao240@example.com,,Tamil Nadu,2024-06-22,Regular
+241,Krishna Chatterjee,krishna.chatterjee241@example.com,Bengaluru,Karnataka,2024-02-24,Premium
+242,Saanvi Sharma,,Kolkata,West Bengal,2026-04-21,Regular
+243,Ishaan Sharma,ishaan.sharma243@example.com,Pune,Maharashtra,2024-01-18,Budget
+244,Vihaan Patel,vihaan.patel244@example.com,Bengaluru,Karnataka,2023-12-01,Budget
+245,Sai Pillai,sai.pillai245@example.com,Madurai,Tamil Nadu,2026-05-09,Regular
+246,Anjali Pillai,anjali.pillai246@example.com,Mumbai,Maharashtra,2025-04-24,Regular
+247,Ananya Singh,ananya.singh247@example.com,Jaipur,Rajasthan,2025-11-25,Regular
+248,Vivaan Menon,vivaan.menon248@example.com,Hyderabad,Telangana,2025-09-02,Budget
+249,Ananya Kumar,ananya.kumar249@example.com,Delhi,Delhi,2025-09-24,Premium
+250,Vikram Bose,vikram.bose250@example.com,Pune,Maharashtra,2024-09-18,Premium
+251,Ishaan Iyer,ishaan.iyer251@example.com,Madurai,Tamil Nadu,2026-01-18,Regular
+252,Saanvi Singh,saanvi.singh252@example.com,Pune,Maharashtra,2024-03-30,Regular
+253,Meera Chatterjee,meera.chatterjee253@example.com,Bengaluru,Karnataka,2026-02-27,Regular
+254,Zara Chatterjee,zara.chatterjee254@example.com,Hyderabad,Telangana,2023-12-28,Regular
+255,Riya Gupta,riya.gupta255@example.com,Mumbai,Maharashtra,2024-06-20,Premium
+256,Vivaan Reddy,vivaan.reddy256@example.com,Delhi,Delhi,2024-12-28,Premium
+257,Tara Verma,tara.verma257@example.com,Lucknow,Uttar Pradesh,2024-07-12,Regular
+258,Meera Iyer,meera.iyer258@example.com,Lucknow,Uttar Pradesh,2024-06-09,Budget
+259,Ishaan Rao,ishaan.rao259@example.com,Delhi,Delhi,2023-10-25,Premium
+260,Deepak Nair,deepak.nair260@example.com,Hyderabad,Telangana,2025-02-16,Premium
+261,Rohan Joshi,rohan.joshi261@example.com,Chennai,Tamil Nadu,2024-05-10,Regular
+262,Vikram Pillai,vikram.pillai262@example.com,Delhi,Delhi,2025-06-17,Premium
+263,Saanvi Singh,saanvi.singh263@example.com,Hyderabad,Telangana,2024-07-20,Budget
+264,Sai Das,sai.das264@example.com,Jaipur,Rajasthan,2024-12-04,Regular
+265,Krishna Joshi,krishna.joshi265@example.com,Mumbai,Maharashtra,2025-09-10,Premium
+266,Arjun Iyer,arjun.iyer266@example.com,Delhi,Delhi,2025-05-27,Premium
+267,Riya Chatterjee,riya.chatterjee267@example.com,Kolkata,West Bengal,2024-01-31,Regular
+268,Meera Pillai,meera.pillai268@example.com,Coimbatore,Tamil Nadu,2026-07-27,Premium
+269,Karthik Gupta,karthik.gupta269@example.com,Bengaluru,Karnataka,2026-02-04,Regular
+270,Riya Reddy,riya.reddy270@example.com,Hyderabad,Telangana,2024-08-04,Regular
+271,Diya Singh,diya.singh271@example.com,Delhi,Delhi,2025-01-27,Regular
+272,Arjun Singh,arjun.singh272@example.com,Lucknow,Uttar Pradesh,2024-03-11,Premium
+273,Arjun Gupta,arjun.gupta273@example.com,Coimbatore,Tamil Nadu,2025-07-24,Regular
+274,Aditya Verma,aditya.verma274@example.com,Coimbatore,Tamil Nadu,2025-02-25,Premium
+275,Zara Sharma,zara.sharma275@example.com,Ahmedabad,Gujarat,2025-04-17,Regular
+276,Amit Bose,amit.bose276@example.com,Hyderabad,Telangana,2026-03-18,Premium
+277,Kavya Joshi,kavya.joshi277@example.com,Ahmedabad,Gujarat,2024-10-23,Budget
+278,Ananya Das,ananya.das278@example.com,Kolkata,West Bengal,2024-05-26,Regular
+279,Ananya Rao,ananya.rao279@example.com,Ahmedabad,Gujarat,2024-05-09,Regular
+280,Vivaan Singh,vivaan.singh280@example.com,Kolkata,West Bengal,2026-01-05,Regular
+281,Pooja Patel,pooja.patel281@example.com,Lucknow,Uttar Pradesh,2025-06-03,Premium
+282,Meera Joshi,,Hyderabad,Telangana,2026-06-16,Premium
+283,Meera Rao,,Chennai,Tamil Nadu,2025-08-24,Premium
+284,Vikram Joshi,vikram.joshi284@example.com,Hyderabad,Telangana,2023-09-18,Regular
+285,Neha Das,,Kolkata,West Bengal,2025-09-20,Premium
+286,Reyansh Das,reyansh.das286@example.com,Jaipur,Rajasthan,2025-04-15,Premium
+287,Ishaan Nair,ishaan.nair287@example.com,Bengaluru,Karnataka,2024-03-18,Regular
+288,Saanvi Das,saanvi.das288@example.com,Bengaluru,Karnataka,2024-10-13,Regular
+289,Vivaan Verma,vivaan.verma289@example.com,Bengaluru,Karnataka,2025-07-15,Regular
+290,Zara Reddy,zara.reddy290@example.com,Pune,Maharashtra,2025-06-15,Budget
+291,Pooja Singh,pooja.singh291@example.com,Lucknow,Uttar Pradesh,2025-07-21,Premium
+292,Anjali Singh,anjali.singh292@example.com,Ahmedabad,Gujarat,2023-10-06,Premium
+293,Tara Singh,tara.singh293@example.com,Madurai,Tamil Nadu,2023-10-26,Budget
+294,Amit Rao,amit.rao294@example.com,Madurai,Tamil Nadu,2023-12-16,Budget
+295,Neha Bose,,Bengaluru,Karnataka,2025-01-10,Regular
+296,Reyansh Sharma,reyansh.sharma296@example.com,Ahmedabad,Gujarat,2025-06-05,Regular
+297,Kavya Joshi,kavya.joshi297@example.com,Madurai,Tamil Nadu,2024-01-07,Premium
+298,Ananya Joshi,ananya.joshi298@example.com,Jaipur,Rajasthan,2025-10-12,Premium
+299,Ananya Das,ananya.das299@example.com,Coimbatore,Tamil Nadu,2025-02-24,Regular
+300,Ishaan Singh,ishaan.singh300@example.com,Chennai,Tamil Nadu,2025-05-03,Budget
+301,Anjali Joshi,anjali.joshi301@example.com,Pune,Maharashtra,2026-05-11,Budget
+302,Ishaan Singh,ishaan.singh302@example.com,Delhi,Delhi,2025-10-18,Regular
+303,Rahul Reddy,rahul.reddy303@example.com,Hyderabad,Telangana,2023-11-27,Regular
+304,Deepak Pillai,deepak.pillai304@example.com,Coimbatore,Tamil Nadu,2025-02-08,Premium
+305,Ishaan Kumar,ishaan.kumar305@example.com,Bengaluru,Karnataka,2024-04-12,Regular
+306,Vivaan Rao,vivaan.rao306@example.com,Coimbatore,Tamil Nadu,2024-12-21,Budget
+307,Priya Nair,,Coimbatore,Tamil Nadu,2024-06-09,Regular
+308,Kavya Joshi,kavya.joshi308@example.com,Ahmedabad,Gujarat,2024-10-14,Regular
+309,Karthik Verma,karthik.verma309@example.com,Delhi,Delhi,2024-12-20,Regular
+310,Deepak Gupta,deepak.gupta310@example.com,Kolkata,West Bengal,2024-08-27,Premium
+311,Amit Joshi,amit.joshi311@example.com,,Karnataka,2025-04-16,Premium
+312,Zara Nair,zara.nair312@example.com,Pune,Maharashtra,2025-04-06,Premium
+313,Priya Reddy,priya.reddy313@example.com,Jaipur,Rajasthan,2026-04-17,Regular
+314,Sai Pillai,sai.pillai314@example.com,,Tamil Nadu,2025-02-09,Regular
+315,Amit Singh,amit.singh315@example.com,Lucknow,Uttar Pradesh,2024-10-01,Premium
+316,Pooja Chatterjee,pooja.chatterjee316@example.com,Jaipur,Rajasthan,2025-07-04,Regular
+317,Arjun Joshi,,Pune,Maharashtra,2025-01-22,Premium
+318,Rahul Kumar,rahul.kumar318@example.com,Pune,Maharashtra,2025-05-12,Regular
+319,Karthik Das,karthik.das319@example.com,Madurai,Tamil Nadu,2024-12-28,Regular
+320,Sai Bose,sai.bose320@example.com,Coimbatore,Tamil Nadu,2026-06-27,Regular
+321,Anjali Nair,anjali.nair321@example.com,Coimbatore,Tamil Nadu,2025-04-28,Regular
+322,Priya Reddy,priya.reddy322@example.com,Ahmedabad,Gujarat,2025-10-06,Premium
+323,Rahul Menon,rahul.menon323@example.com,Chennai,Tamil Nadu,2024-02-16,Regular
+324,Aditya Nair,aditya.nair324@example.com,Mumbai,Maharashtra,2026-07-03,Regular
+325,Ananya Pillai,ananya.pillai325@example.com,Delhi,Delhi,2024-10-26,Premium
+326,Meera Verma,meera.verma326@example.com,Ahmedabad,Gujarat,2024-05-29,Regular
+327,Saanvi Pillai,saanvi.pillai327@example.com,Coimbatore,Tamil Nadu,2025-05-25,Regular
+328,Neha Menon,,Lucknow,Uttar Pradesh,2024-01-29,Regular
+329,Saanvi Verma,,Delhi,Delhi,2026-04-25,Regular
+330,Rahul Chatterjee,rahul.chatterjee330@example.com,Pune,Maharashtra,2025-10-24,Premium
+331,Isha Iyer,isha.iyer331@example.com,Coimbatore,Tamil Nadu,2024-05-31,Regular
+332,Saanvi Bose,saanvi.bose332@example.com,Jaipur,Rajasthan,2024-05-19,Regular
+333,Rahul Sharma,rahul.sharma333@example.com,Hyderabad,Telangana,2026-04-07,Premium
+334,Isha Rao,isha.rao334@example.com,Chennai,Tamil Nadu,2026-04-02,Budget
+335,Rahul Nair,rahul.nair335@example.com,Mumbai,Maharashtra,2026-01-07,Regular
+336,Krishna Menon,krishna.menon336@example.com,Delhi,Delhi,2024-03-26,Budget
+337,Anjali Verma,anjali.verma337@example.com,Chennai,Tamil Nadu,2023-12-01,Regular
+338,Rahul Verma,rahul.verma338@example.com,Bengaluru,Karnataka,2026-06-29,Budget
+339,Tara Patel,tara.patel339@example.com,Lucknow,Uttar Pradesh,2025-06-19,Budget
+340,Riya Rao,riya.rao340@example.com,Kolkata,West Bengal,2025-05-09,Premium
+341,Vikram Gupta,vikram.gupta341@example.com,Coimbatore,Tamil Nadu,2026-01-23,Regular
+342,Karthik Bose,karthik.bose342@example.com,Jaipur,Rajasthan,2025-06-15,Regular
+343,Isha Gupta,isha.gupta343@example.com,Jaipur,Rajasthan,2026-04-28,Budget
+344,Arjun Pillai,arjun.pillai344@example.com,Mumbai,Maharashtra,2025-12-25,Regular
+345,Isha Rao,isha.rao345@example.com,Hyderabad,Telangana,2024-10-22,Premium
+346,Sneha Das,sneha.das346@example.com,Delhi,Delhi,2024-09-26,Premium
+347,Zara Verma,zara.verma347@example.com,Delhi,Delhi,2024-09-21,Budget
+348,Saanvi Menon,saanvi.menon348@example.com,Ahmedabad,Gujarat,2024-11-02,Regular
+349,Reyansh Menon,reyansh.menon349@example.com,Madurai,Tamil Nadu,2024-04-29,Regular
+350,Anjali Menon,anjali.menon350@example.com,Kolkata,West Bengal,2025-01-04,Premium
+351,Meera Das,meera.das351@example.com,Hyderabad,Telangana,2025-02-18,Premium
+352,Vihaan Joshi,vihaan.joshi352@example.com,Pune,Maharashtra,2024-10-22,Premium
+353,Sneha Rao,,Madurai,Tamil Nadu,2024-06-26,Premium
+354,Tara Chatterjee,tara.chatterjee354@example.com,Hyderabad,Telangana,2024-07-10,Premium
+355,Pooja Rao,pooja.rao355@example.com,Ahmedabad,Gujarat,2025-07-24,Budget
+356,Karthik Joshi,karthik.joshi356@example.com,Ahmedabad,Gujarat,2024-08-11,Regular
+357,Neha Joshi,neha.joshi357@example.com,Bengaluru,Karnataka,2023-12-31,Regular
+358,Pooja Verma,pooja.verma358@example.com,Mumbai,Maharashtra,2025-12-24,Regular
+359,Anjali Reddy,anjali.reddy359@example.com,Mumbai,Maharashtra,2024-11-22,Premium
+360,Karthik Joshi,,Coimbatore,Tamil Nadu,2026-05-28,Premium
+361,Aarav Sharma,aarav.sharma361@example.com,Jaipur,Rajasthan,2025-03-17,Premium
+362,Pooja Chatterjee,pooja.chatterjee362@example.com,Bengaluru,Karnataka,2024-04-08,Regular
+363,Reyansh Kumar,reyansh.kumar363@example.com,Pune,Maharashtra,2025-03-02,Premium
+364,Meera Rao,meera.rao364@example.com,Madurai,Tamil Nadu,2024-12-07,Regular
+365,Karthik Verma,karthik.verma365@example.com,Delhi,Delhi,2025-12-10,Regular
+366,Karthik Sharma,karthik.sharma366@example.com,Madurai,Tamil Nadu,2024-08-17,Budget
+367,Amit Patel,amit.patel367@example.com,Lucknow,Uttar Pradesh,2024-03-15,Regular
+368,Reyansh Joshi,reyansh.joshi368@example.com,Hyderabad,Telangana,2023-12-06,Regular
+369,Vikram Verma,,Bengaluru,Karnataka,2025-06-07,Regular
+370,Rahul Bose,rahul.bose370@example.com,Delhi,Delhi,2025-05-06,Premium
+371,Suresh Patel,suresh.patel371@example.com,Kolkata,West Bengal,2024-06-14,Regular
+372,Riya Das,riya.das372@example.com,Mumbai,Maharashtra,2024-03-20,Regular
+373,Zara Bose,zara.bose373@example.com,Pune,Maharashtra,2023-11-01,Premium
+374,Priya Rao,priya.rao374@example.com,Pune,Maharashtra,2025-10-09,Budget
+375,Isha Iyer,isha.iyer375@example.com,Lucknow,Uttar Pradesh,2025-04-28,Regular
+376,Ishaan Reddy,ishaan.reddy376@example.com,Kolkata,West Bengal,2024-07-13,Regular
+377,Aditya Sharma,aditya.sharma377@example.com,Hyderabad,Telangana,2026-02-28,Regular
+378,Aditya Gupta,aditya.gupta378@example.com,Kolkata,West Bengal,2026-03-09,Regular
+379,Aarav Iyer,aarav.iyer379@example.com,Pune,Maharashtra,2024-03-10,Premium
+380,Aarav Singh,aarav.singh380@example.com,Kolkata,West Bengal,2025-11-04,Premium
+381,Vikram Rao,vikram.rao381@example.com,Lucknow,Uttar Pradesh,2024-08-14,Regular
+382,Rohan Kumar,rohan.kumar382@example.com,Ahmedabad,Gujarat,2024-06-26,Premium
+383,Rohan Joshi,rohan.joshi383@example.com,Delhi,Delhi,2025-09-10,Budget
+384,Priya Menon,priya.menon384@example.com,,Gujarat,2024-04-08,Premium
+385,Ananya Bose,ananya.bose385@example.com,Pune,Maharashtra,2026-02-19,Budget
+386,Zara Reddy,zara.reddy386@example.com,Hyderabad,Telangana,2025-06-19,Premium
+387,Ananya Gupta,ananya.gupta387@example.com,Kolkata,West Bengal,2025-06-16,Premium
+388,Tara Rao,tara.rao388@example.com,Pune,Maharashtra,2025-10-11,Regular
+389,Vihaan Menon,vihaan.menon389@example.com,Lucknow,Uttar Pradesh,2024-09-04,Budget
+390,Meera Menon,meera.menon390@example.com,Ahmedabad,Gujarat,2025-04-20,Premium
+391,Suresh Joshi,suresh.joshi391@example.com,Bengaluru,Karnataka,2025-05-14,Budget
+392,Kavya Bose,kavya.bose392@example.com,Delhi,Delhi,2026-03-09,Premium
+393,Saanvi Chatterjee,saanvi.chatterjee393@example.com,Jaipur,Rajasthan,2023-11-16,Premium
+394,Zara Iyer,zara.iyer394@example.com,Delhi,Delhi,2025-01-22,Budget
+395,Zara Verma,zara.verma395@example.com,Lucknow,Uttar Pradesh,2025-11-28,Premium
+396,Vihaan Sharma,vihaan.sharma396@example.com,Delhi,Delhi,2025-02-12,Premium
+397,Tara Rao,tara.rao397@example.com,Ahmedabad,Gujarat,2025-10-07,Premium
+398,Anjali Reddy,anjali.reddy398@example.com,Pune,Maharashtra,2023-10-22,Regular
+399,Vihaan Reddy,vihaan.reddy399@example.com,Pune,Maharashtra,2025-06-01,Premium
+400,Priya Das,priya.das400@example.com,Ahmedabad,Gujarat,2024-03-19,Regular
