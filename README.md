@@ -24,7 +24,7 @@ The analysis targets four specific leakage patterns, each deliberately built int
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 *(Screenshot of the interactive Excel dashboard — replace this image with your own export before publishing)*
 
 The dashboard features 4 KPI summary cards, 5 linked charts, and 2 cross-filtering slicers (by store and by product category) built on a Power Pivot data model.
@@ -97,7 +97,7 @@ Every headline figure in this project was calculated twice — once in SQL, once
 
 ## 👤 Author
 
-**Akshya**
+**Jansi Rani**
 Data Analyst | SQL · Excel · Power BI
 📍 Neyveli, Tamil Nadu
 
